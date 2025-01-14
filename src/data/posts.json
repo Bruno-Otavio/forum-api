@@ -1,0 +1,112 @@
+[
+  {
+    "_author": "677dbf2b107b42cbbd3a4ad3",
+    "title": "Explorando o Mundo da Programação",
+    "content": "Neste post, compartilho dicas e truques que me ajudaram a aprender programação de forma mais eficiente.",
+    "imageUrl": "https://example.com/image1.jpg",
+    "metadata": {
+      "upVotes": 42,
+      "downVotes": 3,
+      "favorites": 15
+    }
+  },
+  {
+    "_author": "677dbf2c107b42cbbd3a4ad7",
+    "title": "Dicas de Organização para Desenvolvedores",
+    "content": "Aqui estão algumas técnicas de organização que têm me ajudado a ser mais produtiva no dia a dia como desenvolvedora.",
+    "imageUrl": "https://example.com/image2.jpg",
+    "metadata": {
+      "upVotes": 55,
+      "downVotes": 2,
+      "favorites": 20
+    }
+  },
+  {
+    "_author": "677dbf2c107b42cbbd3a4ad9",
+    "title": "Introdução ao Node.js",
+    "content": "Uma visão geral sobre como começar a usar Node.js em seus projetos e quais são os benefícios dessa tecnologia.",
+    "imageUrl": null,
+    "metadata": {
+      "upVotes": 38,
+      "downVotes": 5,
+      "favorites": 12
+    }
+  },
+  {
+    "_author": "677dbf2d107b42cbbd3a4adb",
+    "title": "Como Melhorar Sua Escrita Técnica",
+    "content": "Escrever bem é uma habilidade essencial para desenvolvedores. Aqui estão algumas dicas para aprimorar sua escrita técnica.",
+    "imageUrl": "https://example.com/image3.jpg",
+    "metadata": {
+      "upVotes": 61,
+      "downVotes": 0,
+      "favorites": 30
+    }
+  },
+  {
+    "_author": "677dbf2d107b42cbbd3a4add",
+    "title": "Os Primeiros Passos no Desenvolvimento Web",
+    "content": "Descubra como começar a aprender desenvolvimento web com ferramentas simples e práticas.",
+    "imageUrl": "https://example.com/image4.jpg",
+    "metadata": {
+      "upVotes": 47,
+      "downVotes": 4,
+      "favorites": 18
+    }
+  },
+  {
+    "_author": "677dbf2b107b42cbbd3a4ad3",
+    "title": "A Jornada do Desenvolvedor Front-End",
+    "content": "Compartilho minha experiência e os desafios de ser um desenvolvedor front-end nos dias de hoje.",
+    "imageUrl": "https://example.com/image5.jpg",
+    "metadata": {
+      "upVotes": 30,
+      "downVotes": 2,
+      "favorites": 25
+    }
+  },
+  {
+    "_author": "677dbf2c107b42cbbd3a4ad7",
+    "title": "O Que É UX Design?",
+    "content": "Neste post, explico os fundamentos do UX design e como ele impacta a experiência do usuário.",
+    "imageUrl": "https://example.com/image6.jpg",
+    "metadata": {
+      "upVotes": 42,
+      "downVotes": 3,
+      "favorites": 22
+    }
+  },
+  {
+    "_author": "677dbf2c107b42cbbd3a4ad9",
+    "title": "Desmistificando o Git",
+    "content": "Git pode ser confuso, mas vou explicar os conceitos básicos para que você possa usá-lo com confiança em seus projetos.",
+    "imageUrl": "https://example.com/image7.jpg",
+    "metadata": {
+      "upVotes": 50,
+      "downVotes": 1,
+      "favorites": 33
+    }
+  },
+  {
+    "_author": "677dbf2d107b42cbbd3a4adb",
+    "title": "Melhores Práticas de Segurança no Desenvolvimento Web",
+    "content": "Segurança nunca é demais. Confira algumas melhores práticas para garantir que seu código seja mais seguro.",
+    "imageUrl": "https://example.com/image8.jpg",
+    "metadata": {
+      "upVotes": 62,
+      "downVotes": 0,
+      "favorites": 40
+    }
+  },
+  {
+    "_author": "677dbf2d107b42cbbd3a4add",
+    "title": "Desenvolvimento Ágil com Scrum",
+    "content": "Exploro o framework Scrum, como ele funciona e como pode ajudar equipes de desenvolvimento a ser mais produtivas.",
+    "imageUrl": "https://example.com/image9.jpg",
+    "metadata": {
+      "upVotes": 35,
+      "downVotes": 5,
+      "favorites": 28
+    }
+  }
+]

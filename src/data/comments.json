@@ -1,0 +1,122 @@
+[
+  {
+    "_author": "677bb1a9f16715c087114117",
+    "_post": "677dd9d3e33c6ee407070568",
+    "content": "Esse post foi muito útil para aprender programação de forma mais eficiente. Obrigado por compartilhar!",
+    "imageUrl": null,
+    "metadata": {
+      "upVotes": 10,
+      "downVotes": 0
+    }
+  },
+  {
+    "_author": "677dbf2b107b42cbbd3a4ad3",
+    "_post": "677dd9d3e33c6ee407070568",
+    "content": "Ótimos pontos! Acho que começar com projetos simples é essencial.",
+    "imageUrl": "https://example.com/comment1.jpg",
+    "metadata": {
+      "upVotes": 7,
+      "downVotes": 1
+    }
+  },
+  {
+    "_author": "677dbf2c107b42cbbd3a4ad7",
+    "_post": "677dd9d3e33c6ee407070568",
+    "content": "Você poderia dar exemplos de quais ferramentas usou no começo?",
+    "imageUrl": null,
+    "metadata": {
+      "upVotes": 4,
+      "downVotes": 0
+    }
+  },
+  {
+    "_author": "677dbf2c107b42cbbd3a4ad9",
+    "_post": "677dd9d3e33c6ee407070569",
+    "content": "Adorei as dicas de organização! Vou implementar algumas delas.",
+    "imageUrl": "https://example.com/comment2.jpg",
+    "metadata": {
+      "upVotes": 15,
+      "downVotes": 0
+    }
+  },
+  {
+    "_author": "677dbf2d107b42cbbd3a4adb",
+    "_post": "677dd9d3e33c6ee407070569",
+    "content": "Você recomenda algum aplicativo específico para organização?",
+    "imageUrl": null,
+    "metadata": {
+      "upVotes": 6,
+      "downVotes": 0
+    }
+  },
+  {
+    "_author": "677bb1a9f16715c087114117",
+    "_post": "677dd9d3e33c6ee407070569",
+    "content": "Ótimas ideias! Comecei a usar uma lista de tarefas e já sinto a diferença.",
+    "imageUrl": null,
+    "metadata": {
+      "upVotes": 8,
+      "downVotes": 1
+    }
+  },
+  {
+    "_author": "677dbf2d107b42cbbd3a4adb",
+    "_post": "677dd9d3e33c6ee40707056a",
+    "content": "Node.js é incrível! Já comecei um projeto simples com ele.",
+    "imageUrl": null,
+    "metadata": {
+      "upVotes": 12,
+      "downVotes": 0
+    }
+  },
+  {
+    "_author": "677dbf2c107b42cbbd3a4ad7",
+    "_post": "677dd9d3e33c6ee40707056a",
+    "content": "Você poderia explicar mais sobre o Event Loop no Node.js?",
+    "imageUrl": null,
+    "metadata": {
+      "upVotes": 5,
+      "downVotes": 1
+    }
+  },
+  {
+    "_author": "677dbf2c107b42cbbd3a4ad9",
+    "_post": "677dd9d3e33c6ee40707056a",
+    "content": "Eu estava em dúvida sobre começar com Node.js, mas esse post me convenceu.",
+    "imageUrl": "https://example.com/comment3.jpg",
+    "metadata": {
+      "upVotes": 9,
+      "downVotes": 0
+    }
+  },
+  {
+    "_author": "677dbf2d107b42cbbd3a4add",
+    "_post": "677dd9d3e33c6ee40707056b",
+    "content": "Dicas excelentes para melhorar a escrita técnica. Vou colocar em prática.",
+    "imageUrl": null,
+    "metadata": {
+      "upVotes": 14,
+      "downVotes": 0
+    }
+  },
+  {
+    "_author": "677bb1a9f16715c087114117",
+    "_post": "677dd9d3e33c6ee40707056b",
+    "content": "Concordo plenamente com os pontos abordados!",
+    "imageUrl": null,
+    "metadata": {
+      "upVotes": 11,
+      "downVotes": 0
+    }
+  },
+  {
+    "_author": "677dbf2c107b42cbbd3a4ad9",
+    "_post": "677dd9d3e33c6ee40707056b",
+    "content": "Eu geralmente tenho dificuldades em escrever documentações. Suas dicas vão ajudar bastante.",
+    "imageUrl": null,
+    "metadata": {
+      "upVotes": 13,
+      "downVotes": 1
+    }
+  }
+]

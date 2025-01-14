@@ -1,0 +1,27 @@
+[
+  {
+    "username": "joao_silva",
+    "email": "joao.silva@example.com",
+    "password": "senha123"
+  },
+  {
+    "username": "maria_oliveira",
+    "email": "maria.oliveira@example.com",
+    "password": "senha456"
+  },
+  {
+    "username": "carlos_pereira",
+    "email": "carlos.pereira@example.com",
+    "password": "senha789"
+  },
+  {
+    "username": "ana_martins",
+    "email": "ana.martins@example.com",
+    "password": "senha101"
+  },
+  {
+    "username": "ricardo_ferreira",
+    "email": "ricardo.ferreira@example.com",
+    "password": "senha202"
+  }
+]
